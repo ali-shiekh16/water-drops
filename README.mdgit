@@ -1,0 +1,1 @@
+"# three-bubble"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/ali-shiekh16/three-bubble.gitgit push -u origin main
